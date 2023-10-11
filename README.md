@@ -6,15 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theboinextdoor&label=Profile%20views&color=0e75b6&style=flat" alt="theboinextdoor" /> </p>
 
+<p align="left"> <a href="https://twitter.com/heyanonymouss" target="blank"><img src="https://img.shields.io/twitter/follow/heyanonymouss?logo=twitter&style=for-the-badge" alt="heyanonymouss" /></a> </p>
+
 - 🔭 I’m currently working on **React project**
 
-- 🌱 I’m currently learning **React Native & Backend development**
+- 🌱 I’m currently learning **React Native & Backend development, Some advance Data Structure**
 
 - 💬 Ask me about **JavaScript, React ,**
 
 - 📫 reach me at **cman55245@gmail.com**
 
-- ⚡ Fun fact **i'm a rapper (is it funny?? idk who cares)**
+- ⚡ Fun fact **i'm a rapper (is it funny?? idk but who cares)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theboinextdoor&show_icons=true&locale=en" alt="theboinextdoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboinextdoor&" alt="theboinextdoor" /></p>
-
