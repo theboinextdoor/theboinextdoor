@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **React project**
 
-- 🌱 I’m currently learning **React Native & Backend development, Some advance Data Structure**
+- 🌱 I’m currently learning **React & Backend development, Some advance Data Structure**
 
-- 💬 Ask me about **JavaScript, React ,**
+- 💬 Ask me about **JavaScript, React, Redux and its toolkits**
 
 - 📫 reach me at **cman55245@gmail.com**
 
