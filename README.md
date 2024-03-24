@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **full stack Project**
 
-- 🌱 I’m currently learning **UI/UX and Next.js with Three.js**
+- 🌱 I’m currently learning **Next.js with Three.js and Appwrite**
 
 - 👯 I’m looking to collaborate on **MERN Stack and Next Project**
 
