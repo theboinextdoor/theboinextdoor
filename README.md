@@ -13,15 +13,15 @@
 
 - 🔭 I’m currently working on **full stack Project**
 
-- 🌱 I’m currently learning **Next.js with Three.js and Appwrite**
+- 🌱 I’m currently learning ***AWS***
 
-- 👯 I’m looking to collaborate on **MERN Stack and Next Project**
+- 👯 I’m looking to collaborate on ***MERN Stack and Next Project***
 
-- 💬 Ask me about **MERN Stack and Nextjs **
+- 💬 Ask me about ***MERN Stack and Nextjs***
 
-- 📫 reach me at **cman55245@gmail.com , farazashraf1523@gmail.com**
+- 📫 reach me at ***cman55245@gmail.com , farazashraf1523@gmail.com***
 
-- ⚡ Fun fact **i'm a rapper (is it funny?? idk but who cares)**
+- ⚡ Fun fact ***i'm a rapper (is it funny?? idk but who cares)***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
