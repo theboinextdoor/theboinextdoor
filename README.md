@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/heyanonymouss" target="blank"><img src="https://img.shields.io/twitter/follow/heyanonymouss?logo=twitter&style=for-the-badge" alt="heyanonymouss" /></a> </p>
 
-- 🔭 I’m currently working on **full stack Project**
+- 🔭 I’m currently working on ***full stack Next.js Project***
 
 - 🌱 I’m currently learning ***AWS***
 
