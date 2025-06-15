@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">Hi 👋,Wssupp theboinextdoor</h1>
-<h3 align="center">A passionate MERN Stack developer live next to you door, lets connect😉</h3>
+<h1 align="center">Hi 👋,I am Damon</h1>
+<h3 align="center">Crafting Scalable Full-Stack Solutions | Real-time Apps | Next.js • TypeScript • MongoDB • AI & IoT Enthusiast</h3>
 
 <img align="right" width="400" alt="CoderThisSide" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/heyanonymouss" target="blank"><img src="https://img.shields.io/twitter/follow/heyanonymouss?logo=twitter&style=for-the-badge" alt="heyanonymouss" /></a> </p>
 
-- 🔭 I’m currently working on ***full stack Next.js Project***
+- 🔭 I’m currently working on ***AI-Powered Application***
 
-- 🌱 I’m currently learning ***AWS***
+- 🌱 I’m currently learning ***PostgreSQL, Go lang, OpenAI , German***
 
 - 👯 I’m looking to collaborate on ***MERN Stack and Next Project***
 
@@ -21,7 +21,7 @@
 
 - 📫 reach me at ***cman55245@gmail.com , farazashraf1523@gmail.com***
 
-- ⚡ Fun fact ***i'm a rapper (is it funny?? idk but who cares)***
+- ⚡ Fun fact ***i'm a rapper ***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
